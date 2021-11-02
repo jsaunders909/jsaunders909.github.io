@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">University of Bath, Epic Games</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1W 4.20</p>
+    <p>University of Bath, Claverton Down </p>
+    <p>Bath BA2 7AY</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! 
+Hi! I'm Jack, a PhD student at the University of Bath. I'm fortunate to be supervised by [Vinay Namboodiri](https://vinaypn.github.io/) and [Darren Cosker](https://www.cs.bath.ac.uk/~dpc/). I'm a part of [ART-AI](https://cdt-art-ai.ac.uk/) and [CAMERA](https://www.camera.ac.uk/). I'm currently on placement with [Epic Games]().
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is cenetered around deep learning in facial animation. In particular, I'm looking at *style* in facial animation, with the ultimate goal of seamlessly applying existing animations to new faces with no artistic skill. 
