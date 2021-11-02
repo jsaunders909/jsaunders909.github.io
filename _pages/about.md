@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">University of Bath, Epic Games</a>
+description: PhD Candidate, University of Bath
 
 profile:
   align: right
