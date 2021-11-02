@@ -20,3 +20,5 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Jack, a PhD student at the University of Bath. I'm fortunate to be supervised by [Vinay Namboodiri](https://vinaypn.github.io/) and [Darren Cosker](https://www.cs.bath.ac.uk/~dpc/). I'm a part of [ART-AI](https://cdt-art-ai.ac.uk/) and [CAMERA](https://www.camera.ac.uk/). I'm currently on placement with [Epic Games]().
 
 My research is cenetered around deep learning in facial animation. In particular, I'm looking at *style* in facial animation, with the ultimate goal of seamlessly applying existing animations to new faces with no artistic skill. 
+
+Before starting my PhD, I got my B.Sc in Mathematics from the University of Southampton.
