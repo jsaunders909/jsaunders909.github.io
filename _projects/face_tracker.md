@@ -2,7 +2,7 @@
 layout: page
 title: Face Tracking
 description: A simple face tracker that enables a parametric reconstruction of video.
-img: assets/img/Reconstruction.png
+img:assets/img/Reconstruction.png
 importance: 1
 category: work
 ---
@@ -11,7 +11,7 @@ To learn style, we need data. In particular, we need 4D data. 4D data is 3D mesh
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/Reconstruction.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path:assets/img/Reconstruction.png class: "img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
