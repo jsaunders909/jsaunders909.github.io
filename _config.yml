@@ -52,9 +52,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: jsaunders909
 gitlab_username: # your GitLab user name
 twitter_username: jack_r_saunders
-linkedin_username: # your LinkedIn user name
+linkedin_username: jack-r-saunders # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-8894-058X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -69,7 +69,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: false
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please feel free to contact me!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
