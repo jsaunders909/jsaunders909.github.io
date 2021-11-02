@@ -9,4 +9,4 @@ From September 16th - 18th, I organised and hosted an in person student conferen
 
 The conference ended with a fun mini-hackathon involving self-driving cars. Full details can be found [here](https://cdt-art-ai.ac.uk/news/art-ai-news/student-conference-2/).
 
-{% responsive_image path: { site.baseurl }assets/img/Hackathon.jpg title: "Hackathon" class: "img-fluid rounded z-depth-1" %}
+{% responsive_image path: {site.baseurl}/assets/img/Hackathon.jpg title: "Hackathon" class: "img-fluid rounded z-depth-1" %}
