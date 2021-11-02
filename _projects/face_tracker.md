@@ -9,7 +9,7 @@ category: work
 
 To learn style, we need data. In particular, we need 4D data. 4D data is 3D meshes at video rate. This sort of data is very hard to come by. Therefore, I have created a facial tracker that allows for the reconstruction of parametric meshes from video.
 
-{% responsive_image path: /assets/img/Reconstruction.png class: "img-fluid rounded z-depth-1" %}
+{% responsive_image path: https://jsaunders909.github.io/assets/img/Reconstruction.png class: "img-fluid rounded z-depth-1" %}
 
 
 I am using the [FLAME model](https://flame.is.tue.mpg.de/) as a basis for this work. This model takes a set of parameters for shape, expression and pose and outputs a 4D mesh.
