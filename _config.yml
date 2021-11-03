@@ -77,8 +77,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_name: Deepfakes Demystified  # your blog must have a name for it to show up in the nav bar
+blog_description: It is my belief that education is the best way to reduce the harm caused by deepfakes. This blog aims to do that.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -165,7 +165,7 @@ github: [metadata]
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
