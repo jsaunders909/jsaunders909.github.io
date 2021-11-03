@@ -1,3 +1,4 @@
+---
 layout: post
 title: Deepfakes Demystified
 date: 2021-11-03 12:55:00
@@ -33,4 +34,4 @@ the reality of deepfakes do we stand a chance of stopping the spread of misinfor
 This blog exists to educate. It will cover deepfakes from many angles; discussing
 the good and the bad, as well as explaining how deepfakes actually work. In doing so
 I hope to raise awareness and make people stop and question what they see before
-believing. 
+believing.
