@@ -22,5 +22,5 @@ Hi! I'm Jack, a PhD student at the University of Bath. I'm fortunate to be super
 My research is centred around deep learning in facial animation. In particular, I'm looking at *style* in facial animation, with the ultimate goal of seamlessly applying existing animations to new faces with no artistic skill.
 
 There is quite a bit of overlap between this research and deepfakes. It is my belief that best method of combatting the harms associated with
-deepfakes is education. That's why I'm running [a blog](/blog/:year/:title/) to explain both the dangers of deepfakes, as well as an overview of
+deepfakes is education. That's why I'm running [a blog](/blog) to explain both the dangers of deepfakes, as well as an overview of
 how they really work.  
