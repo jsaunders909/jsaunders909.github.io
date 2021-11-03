@@ -3,6 +3,7 @@ layout: post
 title: Deepfakes Demystified
 date: 2021-11-03 12:55:00
 description: An introduction to this blog.
+tags: deepfakes, non-technical
 categories: Intro
 ---
 
