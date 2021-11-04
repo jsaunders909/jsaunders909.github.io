@@ -12,7 +12,12 @@
   | {{ page.title }}
 {% endif %}
 </title>
+
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+{% else %}
 <meta name="description" content="{{ site.description }}">
+{% endif %}
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
@@ -48,4 +53,3 @@
 <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
 {% endif %}
-
