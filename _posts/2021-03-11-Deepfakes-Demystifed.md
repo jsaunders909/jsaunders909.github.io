@@ -22,7 +22,17 @@ What's even worse, is that where making deepfakes used to require a large team o
 academics, artists and animators, they can now be made by anyone with a decent PC
 and an internet connection.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+<div class="caption">
+    Obama is the subject of a popular Buzzfeed deepfake.
+</div>
+
+
 
 There are methods that exist to expose deepfakes, but there is an arms race between
 such methods and the deepfakes themselves. As deepfakes use AI, any detection method

@@ -11,7 +11,7 @@ To learn style, we need data. In particular, we need 4D data. 4D data is 3D mesh
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/Reconstruction.png class: "img-fluid rounded z-depth-1" %}
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/Reconstruction.png">
     </div>
 </div>
 <div class="caption">
