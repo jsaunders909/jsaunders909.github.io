@@ -2,7 +2,7 @@
 layout: page
 title: Face Tracking
 description: A simple face tracker that enables a parametric reconstruction of video.
-img: 
+img:
 importance: 1
 category: work
 ---
@@ -19,6 +19,3 @@ To learn style, we need data. In particular, we need 4D data. 4D data is 3D mesh
 </div>
 
 I am using the [FLAME model](https://flame.is.tue.mpg.de/) as a basis for this work. This model takes a set of parameters for shape, expression and pose and outputs a 4D mesh. A blog post explaining how this works is coming soon!
-
-
-

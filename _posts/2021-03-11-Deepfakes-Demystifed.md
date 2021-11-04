@@ -22,6 +22,8 @@ What's even worse, is that where making deepfakes used to require a large team o
 academics, artists and animators, they can now be made by anyone with a decent PC
 and an internet connection.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 There are methods that exist to expose deepfakes, but there is an arms race between
 such methods and the deepfakes themselves. As deepfakes use AI, any detection method
 can be used to train a new iteration of deepfake models. This means that deepfake

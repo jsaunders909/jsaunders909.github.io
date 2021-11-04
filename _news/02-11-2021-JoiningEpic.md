@@ -6,4 +6,6 @@ inline: false
 ---
 
 
-I'm thrilled to announce I will be joining Epic Games for 6 months starting **8th November 2021**. I will be working within [Cubic Motion](https://cubicmotion.com/) as a Research Engineer. 
+I'm thrilled to announce I will be joining Epic Games for 6 months starting **8th November 2021**. I will be working within [Cubic Motion](https://cubicmotion.com/) as a Research Engineer.
+
+{% responsive_image path: assets/img/Epic.jpg class: "img-fluid rounded z-depth-1" %}

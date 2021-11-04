@@ -18,6 +18,12 @@ nav: true
 
 **Fundamentals of Machine Learning**, *Semester 2*, Lab Support, CW Marking
 
-
-
 ## 2019 - 2020  
+
+**Principals of Programming 1**, *Semester 1*, Lab Support and CW Marking  
+
+**Data Structures and Algorithms**, *Semester 1*, Weekly Lecture, Lab Support and CW Marking
+
+**AI**, *Semester 2*, Lab Support, CW and Exam Marking  
+
+**Fundamentals of Machine Learning**, *Semester 2*, Lab Support, CW Marking
