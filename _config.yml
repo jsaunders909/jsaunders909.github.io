@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon:  # the emoji used as the favicon
 url: https://jsaunders909.github.io # the base hostname & protocol for your site
 #baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -77,8 +77,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Deepfakes Demystified  # your blog must have a name for it to show up in the nav bar
-blog_description: It is my belief that education is the best way to reduce the harm caused by deepfakes. This blog aims to do that.
+blog_name: Deep Digital Humans  # your blog must have a name for it to show up in the nav bar
+blog_description: A collection of blog posts explaining some state-of-the-art deep-learning based projects for digital humans.
 permalink: /blog/:year/:title/
 
 # Pagination
