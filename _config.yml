@@ -77,7 +77,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_name:  blog # your blog must have a name for it to show up in the nav bar
 blog_description: A collection of blog posts explaining some state-of-the-art deep-learning based projects for digital humans.
 permalink: /blog/:year/:title/
 
