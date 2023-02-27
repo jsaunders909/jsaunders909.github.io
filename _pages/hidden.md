@@ -21,16 +21,16 @@ nav: false
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="assets/img/yt.png" alt="YouTube Icon" width="200" height="200">
-      <p style="text-align:center"><a>Paper Link</a></p>
+      <p style="text-align:center"><img src="assets/img/yt.png" alt="YouTube Icon" width="120" height="120">
+      <a>Paper Link</a></p>
     </div>
     <div class="col-sm">
-      <img src="assets/img/yt.png" alt="YouTube Icon"  width="200" height="200">
-      <p style="text-align:center"><a>Video</a></p>
+      <p style="text-align:center"><img src="assets/img/yt.png" alt="YouTube Icon"  width="120" height="120">
+      <a>Video</a></p>
     </div>
     <div class="col-sm">
-      <img src="assets/img/gh.png" alt="YouTube Icon"  width="200" height="200">
-      <p style="text-align:center">Code (Coming Soon)</p>
+      <p style="text-align:center"><img src="assets/img/gh.png" alt="YouTube Icon"  width="120" height="120">
+      Code (Coming Soon)</p>
     </div>
   </div>
 </div>
