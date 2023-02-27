@@ -9,10 +9,10 @@ nav: false
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <p style="text-align:center">[Jack Saunders](https://jsaunders909.github.io/)</p>
+      <p style="text-align:center"><a href=https://jsaunders909.github.io>Jack Saunders</a></p>
     </div>
     <div class="col-sm">
-      <p style="text-align:center">[Vinay Namboodiri](https://vinaypn.github.io/)</p>
+      <p style="text-align:center"><a href=https://vinaypn.github.io>Vinay Namboodiri</a></p>
     </div>
   </div>
 </div>
@@ -21,7 +21,7 @@ nav: false
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <p style="text-align:center">Paper Link</p>
+      <p style="text-align:center"><a>Paper Link</a></p>
     </div>
     <div class="col-sm">
       <p style="text-align:center">Video</p>
