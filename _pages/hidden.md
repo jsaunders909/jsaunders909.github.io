@@ -6,4 +6,9 @@ description: A hidden page
 nav: false
 ---
 
-This page should be hidden
+HIDDEN PAPER TITLE
+
+[Jack Saunders](https://jsaunders909.github.io/) [Vinay Namboodiri](https://vinaypn.github.io/)
+
+
+
