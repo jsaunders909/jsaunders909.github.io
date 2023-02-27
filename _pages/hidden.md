@@ -1,14 +1,37 @@
 ---
 layout: page
 permalink: /hidden
-title: hidden
-description: A hidden page
+title: HIDDEN PAPER TITLE
+description:
 nav: false
 ---
 
-HIDDEN PAPER TITLE
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <p style="text-align:center">[Jack Saunders](https://jsaunders909.github.io/)</p>
+    </div>
+    <div class="col-sm">
+      <p style="text-align:center">[Vinay Namboodiri](https://vinaypn.github.io/)</p>
+    </div>
+  </div>
+</div>
 
-[Jack Saunders](https://jsaunders909.github.io/) [Vinay Namboodiri](https://vinaypn.github.io/)
+ 
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <p style="text-align:center">Paper Link</p>
+    </div>
+    <div class="col-sm">
+      <p style="text-align:center">Video</p>
+    </div>
+    <div class="col-sm">
+      <p style="text-align:center">Code</p>
+    </div>
+  </div>
+</div>
+
 
 
 
