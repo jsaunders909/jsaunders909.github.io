@@ -9,10 +9,10 @@ nav: false
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <p style="text-align:center"><a href=https://jsaunders909.github.io>Jack Saunders</a></p>
+      <a href="https://jsaunders909.github.io">Jack Saunders</a>
     </div>
     <div class="col-sm">
-      <p style="text-align:center"><a href=https://vinaypn.github.io>Vinay Namboodiri</a></p>
+      <a href="https://vinaypn.github.io">Vinay Namboodiri</a>
     </div>
   </div>
 </div>
