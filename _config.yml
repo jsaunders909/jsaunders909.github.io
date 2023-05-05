@@ -54,7 +54,7 @@ twitter_username: jack_r_saunders
 linkedin_username: jack-r-saunders # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0001-8894-058X # your ORCID ID
-medium_username: # your Medium username
+medium_username: jacksaunders909 # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -70,7 +70,7 @@ rss_icon: false
 contact_note: >
   Please feel free to contact me!
 
-google_analytics: UA-212032365 # out your google-analytics code
+google_analytics: UA-4EHL5N559Z # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
