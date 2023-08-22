@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Face Style Transfer
-description: Learning to capture and reproduce dynamic style in facial animation.
+title: Emotion-Controllable Audio-Driven Avatars
+description: 
 img:
 importance: 1
 category: work
