@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /nerfies_test
+title: Test of Nerfies Template
+description:
+nav: false
+---
+
+
 <!DOCTYPE html>
 <html>
 <head>
