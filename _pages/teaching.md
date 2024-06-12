@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: A simple list of the modules I have taught.
 nav: true
+nav_order: 6
 ---
 
 ## 2020 - 2021
