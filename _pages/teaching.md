@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: A simple list of the modules I have taught.
-nav: false
+nav: true
 nav_order: 6
 ---
 
