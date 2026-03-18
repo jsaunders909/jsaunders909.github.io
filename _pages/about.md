@@ -19,7 +19,7 @@ Hi! I'm Jack, a Senior Research Scientist at [Tavus](https://tavus.io/), where I
 
 <div style="margin: 1rem 0;">
   <a href="http://realsyncai.com" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/realsync-logo.jpg" alt="RealSync AI" style="height: 80px; width: auto; border-radius: 8px;">
+    <img src="/assets/img/realsync-logo.jpg" alt="RealSync AI" style="height: 80px; width: auto; border-radius: 8px; background: #fff; padding: 4px;">
   </a>
 </div>
 
