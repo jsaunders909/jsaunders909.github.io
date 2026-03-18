@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Jack Saunders",
-    "label": "PhD Student | Research Scientist",
+    "label": "Senior Research Scientist | AI Avatars & Digital Humans",
     "image": "",
     "email": "jacksaunders909@gmail.com",
-    "url": "https://jacksaunders909.github.io/",
-    "summary": "Final Year (I Hope) PhD Student working on Style and Speech in Facial Animation. I have also worked as an intern at Epic Games, the first Employee at DeepReel, and I will intern at Microsoft this summer. I also communicate around lip-sync/talking face/deepfake models through the company I founded called RealSyncAI",
+    "url": "https://jsaunders909.github.io/",
+    "summary": "Senior Research Scientist at Tavus working on next-generation avatar rendering and generation. PhD from the University of Bath (ART-AI CDT & CAMERA). Founder of RealSync AI. Previously interned at Microsoft and Epic Games. Research focuses on video diffusion models, Gaussian Splatting, and audio-visual multimodal AI for photorealistic digital humans.",
     "location": {
-      "city": "Bath",
+      "city": "Chippenham",
       "countryCode": "UK",
-      "region": "Somerset"
+      "region": "Wiltshire"
     },
     "profiles": [
       {
@@ -22,59 +22,72 @@
         "username": "jack-r-saunders",
         "url": "https://www.linkedin.com/in/jack-r-saunders/"
       }
-
     ]
   },
   "work": [
+    {
+      "name": "Tavus",
+      "position": "Senior Research Scientist",
+      "url": "https://tavus.io/",
+      "startDate": "2025-03-01",
+      "summary": "Working on next-generation avatar rendering and generation technology, with a focus on video diffusion models for photorealistic, real-time avatars.",
+      "highlights": [
+        "Video diffusion models for photorealistic avatar generation",
+        "Autoregressive generation methods (Self-Forcing) for real-time deployment",
+        "Real-time avatar rendering and generation pipelines",
+        "Gaussian Splatting and neural rendering"
+      ]
+    },
     {
       "name": "Microsoft",
       "position": "Research Science Intern",
       "url": "https://www.microsoft.com/",
       "startDate": "2024-06-24",
       "endDate": "2024-09-22",
-      "summary": "TBC",
+      "summary": "Research internship in the Mixed Reality & AI Lab. Led development of GASP (Gaussian Avatars with Synthetic Priors), a method for creating animatable 360-degree Gaussian avatars from a single image, published at CVPR 2025. Also contributed to RwR (Retrieve while Reasoning).",
       "highlights": [
-        "TBC"
+        "Led development of GASP: Gaussian Avatars with Synthetic Priors (CVPR 2025)",
+        "Real-time 360-degree animatable avatars from a single image at 70fps",
+        "Contributed to RwR: Retrieve while Reasoning (CVPR 2025)",
+        "Gaussian Splatting, synthetic data priors, avatar fitting"
       ]
     },
     {
       "name": "RealSync AI",
       "position": "Founder",
-      "url": "https://www.realsyncai.com/",
+      "url": "https://realsyncai.com/",
       "startDate": "2024-04-22",
-      "endDate": "N/A",
-      "summary": "I founded RealSync to help with my efforts to communicate around lip-sync/talking face/deepfake models.",
+      "summary": "Founded RealSync AI to provide consultancy and science communication for avatar and digital human companies. Focus on lip-sync, talking face, and deepfake detection technologies.",
       "highlights": [
-        "Science Communication",
-        "Lip-sync",
-        "Talking Face",
-        "Deepfake Models"
+        "Consultancy for avatar and digital human companies",
+        "Science communication around AI-generated video",
+        "Lip-sync and talking face technology"
       ]
     },
     {
       "name": "DeepReel",
-      "position": "Reearch Scientist (Part-time)",
+      "position": "Research Scientist (Part-time)",
       "url": "https://www.deepreel.com/",
       "startDate": "2022-05-01",
       "endDate": "2024-05-01",
-      "summary": "As employee number 1 at DeepReel, I designed and implemented DeepReel's AI Avatar Techoology.",
+      "summary": "Employee #1 at DeepReel. Designed and implemented the core AI Avatar technology powering the product.",
       "highlights": [
-        "Lip-sync",
-        "Talking Face",
-        "AI Avatars"
+        "Designed and built core AI avatar pipeline from scratch",
+        "Lip-sync and talking face generation",
+        "Neural rendering for video avatars"
       ]
     },
     {
       "name": "Epic Games",
-      "position": "Reearch Intern",
+      "position": "Research Intern",
       "url": "https://www.epicgames.com/",
       "startDate": "2021-11-01",
       "endDate": "2022-05-01",
-      "summary": "My internship project involved creating a style transfer model for facial animation.",
+      "summary": "Research internship focused on style transfer for 3D facial animation, which later became the basis for the FACTS paper at Eurographics 2024.",
       "highlights": [
-        "Style Transfer",
-        "Facial Animation",
-        "3D Facial Animation"
+        "Style transfer for 3D facial animation",
+        "Unreal Engine MetaHuman integration",
+        "GAN-based emotion and style transfer"
       ]
     }
   ],
@@ -83,12 +96,11 @@
       "institution": "University of Bath, UK",
       "location": "Bath, UK",
       "url": "https://www.bath.ac.uk/",
-      "area": "Computer Science",
+      "area": "Computer Science — Deep Learning for Digital Humans",
       "studyType": "PhD",
       "startDate": "2019-09-01",
       "endDate": "2025-03-01"
     },
-
     {
       "institution": "University of Southampton, UK",
       "location": "Southampton, UK",
@@ -111,47 +123,76 @@
   ],
   "publications": [
     {
-      "name": "READ Avatars: Realistic Emotion-controllable Audio Driven Avatars",
-      "publisher": "The 34th British Machine Vision Conference",
-      "releaseDate": "November 2023",
-      "url": "https://readavatars.github.io/",
-      "summary": "We condition neural texture models on emotion and improve the realism of audio-driven avatars with an adversarial loss."
+      "name": "GASP: Gaussian Avatars with Synthetic Priors",
+      "publisher": "CVPR 2025",
+      "releaseDate": "2025-06-01",
+      "url": "https://microsoft.github.io/GASP/",
+      "summary": "Real-time animatable Gaussian Splatting avatars from a single image or monocular video, using synthetic priors. Renders at 70fps on commercial hardware."
+    },
+    {
+      "name": "DEAD: Data-Efficient Audiovisual Dubbing using Neural Rendering Priors",
+      "publisher": "BMVC 2025",
+      "releaseDate": "2025-01-01",
+      "url": "https://arxiv.org/abs/2401.06126",
+      "summary": "High-quality video dubbing from seconds of training data using a multi-person neural rendering prior."
+    },
+    {
+      "name": "TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation",
+      "publisher": "BMVC 2024",
+      "releaseDate": "2024-11-01",
+      "url": "https://arxiv.org/abs/2408.13714",
+      "summary": "Personalised speech-driven facial animation using LoRA adaptors with efficient transformer inference via chunking."
     },
     {
       "name": "FACTS: Facial Animation Creation using the Transfer of Styles",
-      "publisher": "45th Annual Conference of the European Association for Computer Graphics",
-      "releaseDate": "April 2024",
+      "publisher": "Eurographics 2024",
+      "releaseDate": "2024-04-01",
       "url": "https://arxiv.org/abs/2307.09480",
-      "summary": "Given an input 3D Facial animation, we create novel facial animations by edit stylistic characteristics, for example changing the emotion or personality of the character."
+      "summary": "Style transfer for 3D facial animation — retargeting emotion and idiosyncratic speaking style while preserving lip sync."
+    },
+    {
+      "name": "READ Avatars: Realistic Emotion-controllable Audio Driven Avatars",
+      "publisher": "BMVC 2023",
+      "releaseDate": "2023-11-01",
+      "url": "https://readavatars.github.io/",
+      "summary": "Emotion-controllable audio-driven avatars using neural texture models conditioned on emotion with adversarial training."
     }
   ],
   "skills": [
     {
-      "name": "Facial Animation | Lip-Sync | Talking Face etc",
+      "name": "Deep Learning for Digital Humans",
       "level": "Expert",
       "keywords": [
-        "Differntiable Rendering","Neural Texture Models","Style Transfer", "Generative Models","GAN's","Diffusion", "Transformers"
+        "Video Diffusion Models", "Gaussian Splatting", "Flow Matching", "GANs", "Transformers", "LoRA", "Neural Rendering"
       ]
     },
-
+    {
+      "name": "Audio-Visual AI",
+      "level": "Expert",
+      "keywords": [
+        "Lip-sync", "Talking Face", "Speech-Driven Animation", "Audio-Visual Models", "Video Dubbing"
+      ]
+    },
     {
       "name": "Python",
-      "level": "Expert"
+      "level": "Expert",
+      "keywords": [
+        "PyTorch", "CUDA", "JAX", "Hugging Face", "Diffusers"
+      ]
     }
-
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native Speaker"
-
     }
   ],
   "interests": [
     {
-      "name": "Faces",
-      "icon": "fa-solid fa-tag",
+      "name": "Digital Humans & Avatars",
+      "icon": "fa-solid fa-user",
       "keywords": [
+        "Real-time rendering", "Video diffusion", "Self-Forcing", "Photorealism"
       ]
     }
   ]
