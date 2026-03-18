@@ -33,10 +33,10 @@
       institution: Tavus, London (Hybrid), UK
       year: Feb 2025 - Present
       description:
-        - Worked on Phoenix-4, an animation and rendering model for real-time video generation of avatars using Gaussian Splatting, Flow Matching, and GANs.
-        - Developed a novel implicit Gaussian Avatar model improving expressiveness; achieved a 25% increase in lip-sync metrics vs Phoenix-3.
-        - Lead a small team exploring video diffusion models, including identity stability, auto-regressive real-time techniques (distillation, quantization).
-        - Runs a significant portion of the hiring process — leading technical interviews, supervising interns, and mentoring.
+        - Contributed to Phoenix-4, Tavus's animation and rendering model for real-time video generation of avatars, using Gaussian Splatting, Flow Matching, and GANs. Developed a novel implicit Gaussian Avatar model improving expressiveness, achieving a 25% increase in lip-sync metrics vs Phoenix-3.
+        - Lead a research team investigating video diffusion models as a next-generation alternative to current avatar rendering pipelines, with a focus on pushing towards real-time capability.
+        - "Key research directions: identity stability in autoregressive generation, Self-Forcing and related techniques for eliminating exposure bias, model distillation and quantization for real-time deployment."
+        - Runs a significant portion of the hiring process — leading technical interviews, supervising intern projects, and mentoring junior researchers.
     - title: Founder & Freelance Consultant
       institution: RealSync AI, Chippenham, UK
       year: Apr 2024 - Present
@@ -116,7 +116,8 @@
       items:
         - Python, PyTorch
         - Neural Rendering (Neural Textures, Gaussian Splatting, NeRF)
-        - Generative AI (Transformers, GANs, Diffusion Models, Flow Matching)
+        - Generative AI (Transformers, GANs, Diffusion Models, Flow Matching, Video Diffusion)
+        - Real-time model optimisation (Self-Forcing, distillation, quantization)
         - Inverse Rendering, Optimisation
     - title: Research & Communication
       items:
