@@ -62,6 +62,7 @@ We propose **GASP: Gaussian Avatars with Synthetic Priors**. To overcome the lim
 
 ## Citation
 
+{% raw %}
 ```bibtex
 @inproceedings{saunders2025gasp,
   title={{GASP}: Gaussian Avatars with Synthetic Priors},
@@ -72,3 +73,4 @@ We propose **GASP: Gaussian Avatars with Synthetic Priors**. To overcome the lim
   year={2025}
 }
 ```
+{% endraw %}
