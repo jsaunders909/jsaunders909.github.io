@@ -177,7 +177,7 @@
       "name": "Python",
       "level": "Expert",
       "keywords": [
-        "PyTorch", "CUDA", "JAX", "Hugging Face", "Diffusers"
+        "PyTorch", "CUDA", "Hugging Face", "Diffusers"
       ]
     }
   ],
