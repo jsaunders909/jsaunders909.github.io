@@ -8,12 +8,10 @@ profile:
   align: right
   image: me_2024.jpg
   address: >
-    <p>1W 4.20</p>
-    <p>University of Bath, Claverton Down </p>
-    <p>Bath BA2 7AY</p>
+    <p>Chippenham, UK</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
