@@ -9,7 +9,7 @@ category: work
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/READ_Avatars_RepresentativeImage.jpg" title="READ Avatars" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html loading="eager" path="assets/img/READ_Avatars_RepresentativeImage.jpg" title="READ Avatars" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -48,7 +48,7 @@ To evaluate the performance of our method, we perform quantitative and qualitati
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <div class="embed-responsive embed-responsive-16by9">
-      {% include video.liquid path="https://www.youtube.com/embed/QSyMl3vV0pA" class="img-fluid rounded z-depth-1" %}
+      {% include video.html path="https://www.youtube.com/embed/QSyMl3vV0pA" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>

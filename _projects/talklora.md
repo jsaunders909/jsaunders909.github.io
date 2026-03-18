@@ -9,7 +9,7 @@ category: work
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/talklora_overview.png" title="TalkLoRA Overview" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html loading="eager" path="assets/img/talklora_overview.png" title="TalkLoRA Overview" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -43,7 +43,7 @@ TalkLoRA achieves state-of-the-art style adaptation and provides practical guida
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/talklora_results.png" title="TalkLoRA Qualitative Results" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html loading="eager" path="assets/img/talklora_results.png" title="TalkLoRA Qualitative Results" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">

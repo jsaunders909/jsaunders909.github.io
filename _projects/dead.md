@@ -9,7 +9,7 @@ category: work
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/dead_teaser.jpg" title="DEAD: dubbing from English to French" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html loading="eager" path="assets/img/dead_teaser.jpg" title="DEAD: dubbing from English to French" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -46,7 +46,7 @@ Our key insight is to train a large, multi-person prior network, which can then 
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/dead_results.jpg" title="DEAD adaptation progression" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html loading="eager" path="assets/img/dead_results.jpg" title="DEAD adaptation progression" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ Our key insight is to train a large, multi-person prior network, which can then 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <div class="embed-responsive embed-responsive-16by9">
-      {% include video.liquid path="https://www.youtube.com/embed/mnlWVLLoeiY" class="img-fluid rounded z-depth-1" %}
+      {% include video.html path="https://www.youtube.com/embed/mnlWVLLoeiY" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
