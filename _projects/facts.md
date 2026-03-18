@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FACTS"
-description: "Facial Animation Creation using the Transfer of Styles"
+description: "Style transfer for 3D facial animation — retargeting emotion and idiosyncratic speaking style while preserving lip sync. Eurographics 2024."
 img: assets/img/FACTS.png
 importance: 2
 category: work

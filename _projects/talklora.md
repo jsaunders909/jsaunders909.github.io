@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TalkLoRA"
-description: "Low-Rank Adaptation for Speech-Driven Animation"
+description: "Personalised speech-driven facial animation using LoRA adaptors. Efficient transformer inference via chunking. BMVC 2024."
 img: assets/img/talklora_overview.png
 importance: 3
 category: work

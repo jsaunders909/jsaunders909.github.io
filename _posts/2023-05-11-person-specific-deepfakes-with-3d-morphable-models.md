@@ -2,7 +2,7 @@
 layout: post
 title: "Person-Specific Deepfakes with 3D Morphable Models"
 date: 2023-05-11
-description: ""
+description: "How 3D morphable models enable person-specific deepfake avatars — a technical overview of neural rendering and identity-preserving facial animation."
 tags: [digital-humans]
 categories: blog
 ---

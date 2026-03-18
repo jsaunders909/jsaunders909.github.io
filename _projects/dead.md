@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DEAD"
-description: "Data-Efficient Audiovisual Dubbing using Neural Rendering Priors"
+description: "High-quality video dubbing from seconds of training data using a multi-person neural rendering prior. BMVC 2025."
 img: assets/img/dead_teaser.jpg
 importance: 4
 category: work

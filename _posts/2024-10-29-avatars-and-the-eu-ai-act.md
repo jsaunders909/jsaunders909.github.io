@@ -2,7 +2,7 @@
 layout: post
 title: "Avatars and the EU AI Act"
 date: 2024-10-29
-description: ""
+description: "How does the EU AI Act affect AI avatars and digital humans? A breakdown of the regulations, risks, and obligations for avatar technology companies."
 tags: [digital-humans, ai-policy]
 categories: blog
 ---

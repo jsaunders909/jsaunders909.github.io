@@ -2,7 +2,7 @@
 layout: post
 title: "Towards Streaming Video Diffusion"
 date: 2025-12-23
-description: ""
+description: "Exploring the path towards streaming video diffusion models for real-time avatar generation — Self-Forcing, autoregressive diffusion, and real-time deployment."
 tags: [generative-ai]
 categories: blog
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Should Deepfakes be Open-Sourced?"
 date: 2023-05-25
-description: ""
+description: "Should deepfake models be open sourced? A discussion of the ethics, risks, and benefits of open-sourcing AI avatar and lip sync technology."
 tags: [digital-humans]
 categories: blog
 ---

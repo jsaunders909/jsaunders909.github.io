@@ -8,7 +8,7 @@ middle_name: R.
 last_name: Saunders
 email: jacksaunders909@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Scientist specialising in AI Avatars, Digital Humans, and 3D facial animation. Founder of RealSyncAI. PhD, University of Bath.
+  Senior Research Scientist at Tavus. Research in AI avatars, digital humans, Gaussian Splatting, video diffusion models, speech-driven facial animation, and real-time neural rendering. Founder of RealSync AI. PhD, University of Bath.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

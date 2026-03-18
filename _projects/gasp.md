@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GASP"
-description: "Gaussian Avatars with Synthetic Priors"
+description: "Real-time animatable Gaussian Splatting avatars from a single image or monocular video, using synthetic priors. CVPR 2025."
 img: assets/img/gasp_teaser.jpg
 importance: 5
 category: work

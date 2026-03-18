@@ -2,7 +2,7 @@
 layout: post
 title: "The Many Forms of Deep, Audio-Driven Video Dubbing"
 date: 2023-04-20
-description: ""
+description: "A survey of deep learning methods for audio-driven video dubbing and talking head generation, including neural rendering and 3DMM-based approaches."
 tags: [digital-humans]
 categories: blog
 ---

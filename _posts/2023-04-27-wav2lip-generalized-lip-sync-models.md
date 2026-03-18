@@ -2,7 +2,7 @@
 layout: post
 title: "Wav2Lip: Generalized Lip Sync Models"
 date: 2023-04-27
-description: ""
+description: "An overview of Wav2Lip, a generalised deep learning model for lip sync that works across speakers and video domains."
 tags: [digital-humans]
 categories: blog
 ---

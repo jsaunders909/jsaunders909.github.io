@@ -2,7 +2,7 @@
 layout: post
 title: "Scale Is All You Need for Lip-Sync?"
 date: 2024-06-07
-description: ""
+description: "Does scale solve lip sync? An analysis of whether large-scale training data is all you need for state-of-the-art audio-driven talking head generation."
 tags: [digital-humans]
 categories: blog
 ---

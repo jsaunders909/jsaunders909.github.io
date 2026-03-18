@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "READ Avatars"
-description: "Realistic Emotion-controllable Audio Driven Avatars"
+description: "Emotion-controllable audio-driven talking head generation using neural rendering and 3DMM. BMVC 2023 Oral."
 img: assets/img/READ_Avatars_RepresentativeImage.jpg
 importance: 1
 category: work

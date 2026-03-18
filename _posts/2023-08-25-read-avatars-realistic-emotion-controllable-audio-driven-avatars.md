@@ -2,7 +2,7 @@
 layout: post
 title: "READ Avatars: Realistic Emotion-controllable Audio Driven Avatars"
 date: 2023-08-25
-description: ""
+description: "A technical summary of READ Avatars — emotion-controllable audio-driven avatar generation using neural rendering and adversarial training. BMVC 2023 Oral."
 tags: [digital-humans]
 categories: blog
 ---

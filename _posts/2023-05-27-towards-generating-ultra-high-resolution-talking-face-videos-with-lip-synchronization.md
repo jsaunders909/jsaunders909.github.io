@@ -2,7 +2,7 @@
 layout: post
 title: "Towards Generating Ultra-High Resolution Talking-Face Videos with Lip-Synchronization"
 date: 2023-05-27
-description: ""
+description: "A review of methods for generating ultra high resolution talking face videos with accurate lip synchronization using deep learning."
 tags: [digital-humans]
 categories: blog
 ---

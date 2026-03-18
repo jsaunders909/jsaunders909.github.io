@@ -2,7 +2,7 @@
 layout: post
 title: "What I Learned by Building an AI-Driven Newsletter"
 date: 2025-08-18
-description: ""
+description: "Lessons from building an AI-driven newsletter — tools, workflows, and what I learned about automating content generation with large language models."
 tags: [deep-learning]
 categories: blog
 ---

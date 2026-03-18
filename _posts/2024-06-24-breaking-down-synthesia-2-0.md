@@ -2,7 +2,7 @@
 layout: post
 title: "Breaking Down Synthesia 2.0"
 date: 2024-06-24
-description: ""
+description: "A technical breakdown of Synthesia 2.0 — what changed in their digital human and AI avatar pipeline, and what it means for the video dubbing industry."
 tags: [industry]
 categories: blog
 ---

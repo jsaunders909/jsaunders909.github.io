@@ -2,7 +2,7 @@
 layout: post
 title: "The Definitive Guide to Lip Sync Companies"
 date: 2024-05-25
-description: ""
+description: "A comprehensive guide to lip sync companies and AI avatar startups — comparing technology, quality, and use cases for video dubbing and digital humans."
 tags: [digital-humans]
 categories: blog
 ---

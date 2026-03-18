@@ -2,7 +2,7 @@
 layout: post
 title: "DAE Talking: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder"
 date: 2023-07-14
-description: ""
+description: "A summary of DAE-Talking: high-fidelity speech-driven talking face generation using a diffusion autoencoder for expressive digital human animation."
 tags: [digital-humans, generative-ai]
 categories: blog
 ---

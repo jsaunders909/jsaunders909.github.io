@@ -2,7 +2,7 @@
 layout: post
 title: "Gaussian Head Avatars: A Summary"
 date: 2023-12-19
-description: ""
+description: "A summary of Gaussian Head Avatars — high-quality 3D head avatar generation using Gaussian Splatting for real-time neural rendering."
 tags: [digital-humans, neural-rendering]
 categories: blog
 ---
