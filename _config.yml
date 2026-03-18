@@ -8,7 +8,7 @@ middle_name: R.
 last_name: Saunders
 email: jacksaunders909@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Homepage for Jack Roe Saunders.
+  Research Scientist specialising in AI Avatars, Digital Humans, and 3D facial animation. Founder of RealSyncAI. PhD, University of Bath.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -56,9 +56,9 @@ max_width: 800px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: assets/img/me_2024.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -68,7 +68,7 @@ github_username: jsaunders909
 gitlab_username: # your GitLab user name
 x_username: jack_r_saunders
 linkedin_username: jack-r-saunders # your LinkedIn user name
-scholar_userid: #  your Google Scholar ID
+scholar_userid: o5aSJpQAAAAJ #  your Google Scholar ID
 orcid_id: 0000-0001-8894-058X # your ORCID ID
 medium_username: jacksaunders909 # your Medium username
 semanticscholar_id: # your Semantic Scholar ID
@@ -108,7 +108,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # your blog must have a name for it to show up in the nav bar
+blog_name: Blog # your blog must have a name for it to show up in the nav bar
 blog_description: A collection of blog posts explaining some state-of-the-art deep-learning based projects for digital humans.
 permalink: /blog/:year/:title/
 
@@ -347,7 +347,7 @@ enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the navbar on the about page
+enable_navbar_social:       true   # enables displaying social links in the navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position

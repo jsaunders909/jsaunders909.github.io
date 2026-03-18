@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-#cv_pdf: example_pdf.pdf
-description: 
+cv_pdf: CV-JackSaunders-Feb26.docx.pdf
+description:
 toc:
   sidebar: left
 ---
